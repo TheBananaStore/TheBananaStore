@@ -14,10 +14,10 @@ Well, you may be thinking, why choose Banana Store?
 # The good, and bad
 -------------------
 So, whats good, and what is bad?
-Good: Works on all distros.
-Bad: Not all apps are available.
-Good: Updated constantly!
-Bad: Still in testing.
+1. Good: Works on all distros.
+2. Bad: Not all apps are available.
+3. Good: Updated constantly!
+4. Bad: Still in testing.
 
 # Join the fun!
 
