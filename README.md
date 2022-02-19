@@ -11,6 +11,16 @@ Well, you may be thinking, why choose Banana Store?
 2. Available Across Multiple Distros
 3. Lots of Apps!
 
+# The good, and bad
+-------------------
+So, whats good, and what is bad?
+Good: Works on all distros.
+Bad: Not all apps are available.
+Good: Updated constantly!
+Bad: Still in testing.
+
+# Join the fun!
+
 Join our discord server!
 
 https://discord.gg/hSPreCphPV
