@@ -1,2 +1,9 @@
 # The-Banana-Store
-Banana store is a app store for most major Linux distros! It is also completely free! :)
+------------------
+Bananas, a beautiful fruit, with pottassium and, oh! Excuse me, let me explain...
+
+The Banana app store is a up and coming app store for most linux distros which you can install with one command!
+
+More Coming Soon!
+
+-a_twoyearold
