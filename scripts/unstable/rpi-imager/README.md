@@ -12,4 +12,3 @@ This directory contains the install/uninstall scripts for RPI Imager.
 - Gentoo based.
 - Cent based.
 - Red hat based.
-- ChromeOS.
