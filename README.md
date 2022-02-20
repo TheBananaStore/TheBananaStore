@@ -1,8 +1,8 @@
 # The-Banana-Store
 ------------------
-Bananas, a beautiful fruit, with pottassium and, oh! Excuse me, let me explain...
+Bananas, a beautiful fruit, with potassium and, oh! Excuse me, let me explain...
 
-The Banana app store is a up and coming app store for most linux distros which you can install with one command!
+The Banana App Store is a up and coming app store for most linux distros which you can install with one command!
 
 ### Why choose Banana Store?
 
@@ -13,8 +13,7 @@ Well, you may be thinking, why choose Banana Store?
 
 ### The good, and bad
 
-So, whats good, and what is bad?
-
+So, what's good, and what is bad?
 
 Pros: 
 - Works on all major distros.
@@ -24,7 +23,7 @@ Cons:
 - Still in testing
 - Not all apps are supported on all distros.
 
-##### Join the fun!
+### Join in on the fun!
 
 [Join our discord server!](https://discord.gg/hSPreCphPV)
 
