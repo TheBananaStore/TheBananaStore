@@ -1,4 +1,4 @@
 # !/usr/bin/env bash
 # GIMP for Linux Mint.
 
-sudo apt purge gimp -y
+sudo apt purge rpi-imager -y
