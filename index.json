@@ -6,7 +6,8 @@
             "description": "An Open Source spiritual successor to the flash game Line Rider\nLine Rider is a classic sandbox game where you draw a track for the sledder to ride on.\n\nOpen Source:\nLRA-Community-Edition is an open source spiritual successor to Line Rider 6.2\n\nTo run: Menu -> Games -> LineRide\n\nTo run in a terminal: mono ~/LineRider/linerider.exe",
             "website": "https://github.com/RatherBeLunar/LRA-Community-Edition",
             "credits": "Sussy-OS (rb24#0032), Cycool, and theofficialgman for writing the install script, Boštjan Čadež for the original https://linerider.com game.",
-            "supported": ["apt"]
+            "supported": ["apt"],
+            "repo": "unstable"
         
         
          },
@@ -16,7 +17,8 @@
             "description": "The famous VLC media player.",
             "website": "https://videolan.org",
             "credits": "https://videolan.org",
-            "supported": ["apt", "arch"]
+            "supported": ["apt", "arch"],
+            "repo": "unstable"
         
         
          },
@@ -26,7 +28,8 @@
            "description": "",
            "website": "https://mcpi-revival.github.io",
            "credits": "mzheng58@gmail.com",
-           "supported": ["apt"]
+           "supported": ["apt"],
+           "repo": "unstable"
          },
          {
            "name": "Raspberry Pi Imager",
@@ -34,7 +37,8 @@
            "description": "RPI Iimager",
            "website": "https://raspberrypi.org",
            "credits": "The RPF",
-           "supported": ["apt", "arch", "rpi"]
+           "supported": ["apt", "arch", "rpi"],
+           "repo": "unstable"
          },
          {
            "name": "GIMP",
@@ -42,7 +46,17 @@
            "description": "GIMP",
            "website": "https://gimp.org",
            "credits": "GIMP",
-           "supported": ["apt", "mint", "arch"]
+           "supported": ["apt", "mint", "arch"],
+           "repo": "unstable"
+         },
+         {
+           "name": "Tuxemon: Xero",
+           "codename": "Tuxemon",
+           "description": "Open source monster-fighting RPG.",
+           "website": "https://tuxemon.org",
+           "credits": "TheCornBoss",
+           "supported": ["all"],
+           "repo": "testing"
          },
     
     ]
