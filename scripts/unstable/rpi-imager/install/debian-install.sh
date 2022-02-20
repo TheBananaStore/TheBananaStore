@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Rpi-Imager installer for Raspberry Pi OS.
+# Rpi-Imager installer for Debian.
 
 sudo apt-get update -y
 
