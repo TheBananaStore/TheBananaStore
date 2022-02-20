@@ -6,6 +6,7 @@ This directory contains the install/uninstall scripts for RPI Imager.
 
 - Ubuntu Based.
 - Raspberry Pi OS.
+- Arch Based
 	
 ## Unsupported OSes
 
