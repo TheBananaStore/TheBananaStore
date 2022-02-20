@@ -6,6 +6,7 @@ This directory contains the install/uninstall scripts for GIMP.
 
 - Debian/Ubuntu Based.
 - Linux Mint.
+- Arch Based
 	
 ## Unsupported OSes
 
