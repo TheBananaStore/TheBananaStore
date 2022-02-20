@@ -1,6 +1,1 @@
-Ubuntu
-Rpi OS
-Lubuntu
-Xubuntu
-Chrome OS
 Debian

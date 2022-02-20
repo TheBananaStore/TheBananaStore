@@ -1,4 +1,6 @@
-#VLC instsaller for debian/gnu linux
-sudo apt-get update
+#!/usr/bin/env bash
+# VLC installer for Debain based GNU/Linux distros.
 
-sudo apt install vlc -y
+set -e
+sudo apt update
+sudo apt install -y vlc

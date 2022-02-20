@@ -1,3 +1,4 @@
-#uninstall VLC for debian
+#!/usr/bin/env bash
+# VLC uninstaller for Debain.
 
-sudo apt purge vlc -y
+sudo apt purge -y vlc

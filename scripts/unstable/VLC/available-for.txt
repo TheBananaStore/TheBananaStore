@@ -1,8 +1,2 @@
-Ubuntu
-Lubuntu
-Xubuntu
 Debian
-ChromeOS
 Arch
-Manjaro
-Mint
