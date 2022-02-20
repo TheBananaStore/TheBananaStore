@@ -1,8 +1,10 @@
-# The-Banana-Store
+# The Banana Store
 ------------------
 Bananas, a beautiful fruit, with potassium and, oh! Excuse me, let me explain...
 
 The Banana App Store is a up and coming app store for most linux distros which you can install with one command!
+
+Please note that this is the content and NOT the client repository.
 
 ### Why choose Banana Store?
 
