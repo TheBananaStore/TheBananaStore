@@ -1,0 +1,2 @@
+Debian Based
+Linux Mint (Seperate Installer)
