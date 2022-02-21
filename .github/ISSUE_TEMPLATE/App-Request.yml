@@ -46,3 +46,5 @@ body:
           required: true
         - label: The app is not piracy or illegal.
           required: true
+        - label: If you uploaded a ZIP, you have tested the scripts there.
+          required: false
