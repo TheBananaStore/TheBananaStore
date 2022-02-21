@@ -65,11 +65,11 @@
          "codename":"Tuxemon",
          "description":"Open source monster-fighting RPG.",
          "website":"https://tuxemon.org",
-         "credits":"TheCornBoss",
+         "credits":"LEHAtupointow for the script.",
          "supported":[
             "all"
          ],
-         "repo":"testing"
+         "repo":"unstable"
       },
       {
          "name":"Steam",
