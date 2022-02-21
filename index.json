@@ -75,8 +75,8 @@
            "credits": "Clam Antivrus Inc.",
            "supported": ["apt"],
            "repo": "unstable"
-         },
-    
+         }
+    // Note: NEVER PUT A COMMA AT THE END OF THE LAST JSON ENTRY. This isinvalid for it. 
     ]
 
 
