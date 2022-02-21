@@ -58,6 +58,15 @@
            "supported": ["all"],
            "repo": "testing"
          },
+         {
+           "name": "Steam",
+           "codename": "Steam",
+           "description": "Game launcher with lots of games.",
+           "website": "https://store.steampowered.com/",
+           "credits": "Steam Inc.",
+           "supported": ["apt"],
+           "repo": "unstable"
+         },
     
     ]
 
