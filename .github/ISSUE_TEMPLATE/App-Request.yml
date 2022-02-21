@@ -1,0 +1,48 @@
+name: App Request
+description: Request an app to be added
+title: "[APP REQUEST]: "
+labels: [App Request]
+
+
+body:
+  - type: textarea
+    id: name
+    attributes:
+      label: App name
+      description: and description
+      placeholder: Cool app
+      value: "Cool app"
+    validations:
+      required: true
+  - type: dropdown
+    id: distros
+    validations: 
+      required: true
+    attributes:
+      label: What Linux distros this app supports?
+      multiple: true
+      options:
+        - Unix-based
+        - Red-Hat-based
+        - Debian-based
+        - Other
+        - Arch-based
+  - type: textarea
+    id: details
+    validations:
+      required: false
+    attributes:
+      label: App upload field
+      description: If you made a ZIP for the app, upload it here.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklists
+      description: Agree to this.
+      options:
+        - label: I have checked the issues tab for duplicates
+          required: true
+        - label: This app works on Linux
+          required: true
+        - label: The app is not piracy or illegal.
+          required: true
