@@ -71,7 +71,7 @@
            "name": "Clam Antivirus",
            "codename": "clamav",
            "description": "Antivirus for unix systems.",
-           "website": "https://clamav.net,
+           "website": "https://clamav.net",
            "credits": "Clam Antivrus Inc.",
            "supported": ["apt"],
            "repo": "unstable"
