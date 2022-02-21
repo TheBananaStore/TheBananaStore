@@ -76,8 +76,8 @@
            "supported": ["apt"],
            "repo": "unstable"
          }
-    // Note: NEVER PUT A COMMA AT THE END OF THE LAST JSON ENTRY. This isinvalid for it. 
-    ]
+    ],
+    "Note: "NEVER PUT A COMMA AT THE END OF THE LAST JSON ENTRY. This is invalid for JSON syntax. DO NOT REMOVE THIS NOTE. "
 
 
 } 
