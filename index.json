@@ -37,7 +37,7 @@
       {
          "name":"Raspberry Pi Imager",
          "codename":"rpi-imager",
-         "description":"RPI Iimager",
+         "description":"RPI Imager",
          "website":"https://raspberrypi.org",
          "credits":"The RPF",
          "supported":[
