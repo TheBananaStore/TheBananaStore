@@ -1,5 +1,5 @@
 # !/usr/bin/env bash
-# GIMP for Linux Mint.
+# Install sublime text on centOS
 
 sudo rpm -v --import https://download.sublimetext.com/sublimehq-rpm-pub.gpg
 
