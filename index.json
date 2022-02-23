@@ -19,7 +19,7 @@
          "credits":"https://videolan.org",
          "supported":[
             "apt",
-            "arch"
+            "pacman"
          ],
          "repo":"unstable"
       },
@@ -42,8 +42,7 @@
          "credits":"The RPF",
          "supported":[
             "apt",
-            "arch",
-            "rpi"
+            "pacman"
          ],
          "repo":"unstable"
       },
@@ -55,8 +54,7 @@
          "credits":"GIMP",
          "supported":[
             "apt",
-            "mint",
-            "arch"
+            "pacman"
          ],
          "repo":"unstable"
       },
@@ -83,14 +81,19 @@
          "repo":"unstable"
       },
       {
-         "name":"Clam Antivirus",
-         "codename":"clamav",
-         "description":"Antivirus for unix systems.",
-         "website":"https://clamav.net",
-         "credits":"Clam Antivrus Inc.",
+         "name":"Sublime Text",
+         "codename":"Sublime Text",
+         "description":"Fairly simple text editor",
+         "website":"https://sublimetext.com",
+         "credits":"Sublime Text Inc.",
          "supported":[
-            "apt"
-         ],
+            "apt",
+            "pacman",
+            "yum",
+            "dnf",
+            "zypper"
+            
+         ]
          "repo":"unstable"
       }
    ],
