@@ -92,6 +92,14 @@
             "yum",
             "dnf",
             "zypper"
+       {
+         "name":"Discord",
+         "codename":"Discord",
+         "description":"Chat for gamers, chat with your friends and family!",
+         "website":"https://discord.com",
+         "credits":"Discord Inc.",
+         "supported":[
+            "deb"
          ],
          "repo":"unstable"
       }
