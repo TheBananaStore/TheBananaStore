@@ -92,7 +92,6 @@
             "yum",
             "dnf",
             "zypper"
-            
          ],
          "repo":"unstable"
       }
