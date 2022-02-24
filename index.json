@@ -82,7 +82,7 @@
       },
       {
          "name":"Sublime Text",
-         "codename":"Sublime Text",
+         "codename":"sublime-text",
          "description":"Fairly simple text editor",
          "website":"https://sublimetext.com",
          "credits":"Sublime Text Inc.",
@@ -91,7 +91,9 @@
             "pacman",
             "yum",
             "dnf",
-            "zypper"]
+            "zypper"],
+         "repo": "unstable"
+         
        },
        {
          "name":"Discord",
