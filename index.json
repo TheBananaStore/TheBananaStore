@@ -91,7 +91,7 @@
             "pacman",
             "yum",
             "dnf",
-            "zypper"],
+            "zypper"]
        },
        {
          "name":"Discord",
