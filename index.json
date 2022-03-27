@@ -1,5 +1,6 @@
 {
-   "apps":[
+   "stable": [],
+   "unstable":[
       {
          "name":"Line Rider",
          "codename":"LineRider",
@@ -8,8 +9,7 @@
          "credits":"Sussy-OS (rb24#0032), Cycool, and theofficialgman for writing the install script, Boštjan Čadež for the original https://linerider.com game.",
          "supported":[
             "apt"
-         ],
-         "repo":"unstable"
+         ]
       },
       {
          "name":"VLC Media Player",
@@ -20,8 +20,7 @@
          "supported":[
             "apt",
             "pacman"
-         ],
-         "repo":"unstable"
+         ]
       },
       {
          "name":"Minecraft Pi Reborn Extended",
@@ -31,8 +30,7 @@
          "credits":"mzheng58@gmail.com",
          "supported":[
             "apt"
-         ],
-         "repo":"unstable"
+         ]
       },
       {
          "name":"Raspberry Pi Imager",
@@ -43,8 +41,7 @@
          "supported":[
             "apt",
             "pacman"
-         ],
-         "repo":"unstable"
+         ]
       },
       {
          "name":"GIMP",
@@ -55,8 +52,7 @@
          "supported":[
             "apt",
             "pacman"
-         ],
-         "repo":"unstable"
+         ]
       },
       {
          "name":"Tuxemon: Xero",
@@ -66,8 +62,7 @@
          "credits":"LEHAtupointow for the script.",
          "supported":[
             "all"
-         ],
-         "repo":"unstable"
+         ]
       },
       {
          "name":"Steam",
@@ -77,8 +72,7 @@
          "credits":"Steam Inc.",
          "supported":[
             "apt"
-         ],
-         "repo":"unstable"
+         ]
       },
       {
          "name":"Sublime Text",
@@ -91,8 +85,7 @@
             "pacman",
             "yum",
             "dnf",
-            "zypper"],
-         "repo": "unstable"
+            "zypper"]
          
        },
        {
@@ -103,9 +96,9 @@
          "credits":"Discord Inc.",
          "supported":[
             "deb"
-         ],
-         "repo":"unstable"
+         ]
       }
    ],
+   "testing": [],
    "Note":"NEVER PUT A COMMA AT THE END OF THE LAST JSON ENTRY. This is invalid for JSON syntax. DO NOT REMOVE THIS NOTE."
 }
