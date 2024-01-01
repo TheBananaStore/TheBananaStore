@@ -16,7 +16,7 @@ Please note that this is the content and NOT the client repository.
 ### Why choose Banana Store?
 
 Well, you may be thinking, why choose Banana Store?
-1. Easy Installation
+1. Easy Installation [here](https://github.com/TheBananaStore/TheBananaClient)
 2. Available Across Multiple Distros
 3. Lots of Apps!
 
