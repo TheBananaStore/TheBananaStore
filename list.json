@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "Neofetch",
+      "installer": "./apps/neofetch.sh"
+    }
+  ]
+}
