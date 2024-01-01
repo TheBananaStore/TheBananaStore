@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "Neofetch",
-      "installer": "./apps/neofetch.sh"
+      "installer": "http://mirror.thebananastore.xyz/apps/neofetch.sh"
     }
   ]
 }
