@@ -3,6 +3,26 @@
     {
       "name": "Neofetch",
       "installer": "http://mirror.thebananastore.xyz/apps/neofetch.sh"
+    },
+    {
+      "name": "Filezilla",
+      "installer": "http://mirror.thebananastore.xyz/apps/filezilla.sh"
+    },
+    {
+      "name": "Arduino",
+      "installer": "http://mirror.thebananastore.xyz/apps/arduino.sh"
+    },
+        {
+      "name": "MCPi++ arm",
+      "installer": "http://mirror.thebananastore.xyz/apps/mcpiarm.sh"
+    },
+    {
+      "name": "Raspberry Pi Imager",
+      "installer": "http://mirror.thebananastore.xyz/apps/imager.sh"
+    },
+    {
+      "name": "Gparted",
+      "installer": "http://mirror.thebananastore.xyz/apps/gparted.sh"
     }
   ]
 }
