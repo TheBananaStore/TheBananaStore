@@ -20,10 +20,6 @@ Well, you may be thinking, why choose Banana Store?
 2. Available Across Multiple Distros
 3. Lots of Apps!
 
-### The good, and bad
-
-So, what's good, and what is bad?
-
 Pros: 
 - Works on all major distros.
 - Updated constantly!
@@ -35,5 +31,4 @@ Cons:
 ### Join in on the fun!
 
 [Join our discord server!](https://discord.gg/hSPreCphPV)
-
 
